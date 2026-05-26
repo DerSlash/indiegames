@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://derslash.github.io/indiegames/sitemap.xml

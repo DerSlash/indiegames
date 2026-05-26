@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://derslash.github.io/indiegames/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://derslash.github.io/indiegames/</loc>
+</url>
+<url>
+<loc>https://derslash.github.io/indiegames/fdsgdsg/</loc>
+<lastmod>2026-05-26T17:18:52+02:00</lastmod>
+<image:image>
+<image:loc>https://derslash.github.io/indiegames/media/posts/1/Holstin-Pixelart-Survival-Horror-Game.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://derslash.github.io/indiegames/media/posts/1/gallery/Holstin-Pixelart-Survival-Horror_1-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Holstin: Atmosphärischer Pixelart-Horror im Polen der 90er-Jahre]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://derslash.github.io/indiegames/media/posts/1/gallery/Holstin-Pixelart-Survival-Horror_2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Holstin: Atmosphärischer Pixelart-Horror im Polen der 90er-Jahre]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://derslash.github.io/indiegames/media/posts/1/gallery/Holstin-Pixelart-Survival-Horror_3-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Holstin: Atmosphärischer Pixelart-Horror im Polen der 90er-Jahre]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://derslash.github.io/indiegames/media/posts/1/gallery/Holstin-Pixelart-Survival-Horror_4-thumbnail.jpg</image:loc>
+<image:title><![CDATA[Holstin: Atmosphärischer Pixelart-Horror im Polen der 90er-Jahre]]></image:title>
+</image:image>
+</url>
+</urlset>
