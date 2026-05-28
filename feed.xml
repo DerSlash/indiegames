@@ -3,7 +3,7 @@
     <title>Indiegames Inside</title>
     <link href="https://derslash.github.io/indiegames/feed.xml" rel="self" />
     <link href="https://derslash.github.io/indiegames" />
-    <updated>2026-05-26T20:49:21+02:00</updated>
+    <updated>2026-05-28T20:01:16+02:00</updated>
     <author>
         <name>Peter Rademacher</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://derslash.github.io/indiegames/fdsgdsg/"/>
         <id>https://derslash.github.io/indiegames/fdsgdsg/</id>
         <media:content url="https://derslash.github.io/indiegames/media/posts/1/Holstin-Pixelart-Survival-Horror-Game.png" medium="image" />
+            <category term="Preview"/>
 
         <updated>2026-05-26T12:45:44+02:00</updated>
             <summary type="html">
@@ -62,6 +63,57 @@
 <p><strong>Unser Anspiel-Tipp:</strong> Wer die dichte, packende Atmosphäre und das innovative Kamerasystem vorab selbst erleben möchte, findet auf Steam bereits eine umfangreiche Demo. Ein offizielles Release-Datum lassen sich die Entwickler von Sonka und Publisher Team17 bislang zwar noch nicht entlocken, doch wir behalten diesen faszinierenden Horrortrip definitiv im Auge. Wer das Projekt unterstützen möchte, kann sich den Titel bis dahin einfach auf die Wunschliste setzen! </p>
 <div class="steam-cta-buttons"><a href="https://store.steampowered.com/curator/28279924-Indiegames-Inside/" target="_blank" rel="noopener" class="steam-btn steam-btn-secondary"> Folge unserer Steam Kurator Seite </a> <a href="https://store.steampowered.com/app/2235430/Holstin/?curator_clanid=28279924" target="_blank" rel="noopener" class="steam-btn steam-btn-primary"> Holstin auf Steam </a></div>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/P4E-iyGJB-I?si=_hCd8couZAyvh9Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Slayaway Camp: Wenn Sokoban auf einen 80er-Jahre-Slasher trifft</title>
+        <author>
+            <name>Peter Rademacher</name>
+        </author>
+        <link href="https://derslash.github.io/indiegames/slayaway-camp-wenn-sokoban-auf-80er-jahre-slasher-trifft/"/>
+        <id>https://derslash.github.io/indiegames/slayaway-camp-wenn-sokoban-auf-80er-jahre-slasher-trifft/</id>
+        <media:content url="https://derslash.github.io/indiegames/media/posts/6/Slayway-Camp-Sokoban-Horror-Puzzle-Game.jpg" medium="image" />
+            <category term="Review"/>
+
+        <updated>2026-05-18T19:15:00+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://derslash.github.io/indiegames/media/posts/6/Slayway-Camp-Sokoban-Horror-Puzzle-Game.jpg" alt="" />
+                    <p>Ein Sommercamp am See, arglose Teenager und ein maskierter Killer auf Rachefeldzug. Mit <i data-path-to-node="3" data-index-in-node="88">Slayaway Camp</i> lieferte Blue Wizard Digital bereits 2016 eine blutige Hommage an den klassischen Trash-Horror der 1980er Jahre ab, verpackt in eine charmante Voxel-Optik und knallharte Puzzle-Mechaniken.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://derslash.github.io/indiegames/media/posts/6/Slayway-Camp-Sokoban-Horror-Puzzle-Game.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Ein Sommercamp am See, arglose Teenager und ein maskierter Killer auf Rachefeldzug. Mit <i data-path-to-node="3" data-index-in-node="88">Slayaway Camp</i> lieferte Blue Wizard Digital bereits 2016 eine blutige Hommage an den klassischen Trash-Horror der 1980er Jahre ab, verpackt in eine charmante Voxel-Optik und knallharte Puzzle-Mechaniken.</p>
+
+<div class="steam-cta-buttons"><a href="https://store.steampowered.com/curator/28279924-Indiegames-Inside/" target="_blank" rel="noopener" class="steam-btn steam-btn-secondary"> Folge unserer Steam Kurator Seite </a> <a href="https://store.steampowered.com/app/530390/Slayaway_Camp/?curator_clanid=28279924" target="_blank" rel="noopener" class="steam-btn steam-btn-primary"> Slayaway Camp auf Steam </a></div>
+<p>Auf den ersten Blick erinnert das Fundament des Spiels an den Rätselklassiker <i data-path-to-node="4" data-index-in-node="78"><a href="https://de.wikipedia.org/wiki/Sokoban" target="_blank" rel="noopener noreferrer">Sokoban</a></i>. Doch statt dröger Kisten verschieben wir hier einen Serienkiller über isometrische Raster-Maps. Das morbide Ziel: Alle Teenager auf dem Spielfeld eliminieren, bevor man durch einen rettenden Ausgang zum nächsten Level schreitet.</p>
+<h2 data-path-to-node="5">Gnadenlose Rutschpartie ohne Frustfaktor</h2>
+<p data-path-to-node="6">Was einfach klingt, entpuppt sich schnell als echte graue Zellen-Folter. Der Clou an der Bewegung ist, dass unser Killer nach jedem Richtungsbefehl stets bis zum nächsten Hindernis durchrutscht. Jeder Schritt will also wohlüberlegt sein.</p>
+<ul data-path-to-node="7">
+<li>
+<p data-path-to-node="7,0,0"><strong data-path-to-node="7,0,0" data-index-in-node="0">Hindernisse und Fallen:</strong> Wer unbedacht losrutscht, landet schnell im tiefen Wasser, im prasselnden Lagerfeuer oder bleibt in einer Sackgasse hängen.</p>
+</li>
+<li>
+<p data-path-to-node="7,1,0"><strong data-path-to-node="7,1,0" data-index-in-node="0">Panik als Werkzeug:</strong> Treten wir in die direkte Sichtlinie unserer Opfer, ergreifen diese schreiend die Flucht. Was oft vermieden werden muss, um die Opfer nicht unabsichtlich in Sicherheit stürmen zu lassen, wird in einigen Levels zum essenziellen Werkzeug, um Teenager gezielt in Minen oder andere Fallen zu treiben.</p>
+</li>
+<li>
+<p data-path-to-node="7,2,0"><strong data-path-to-node="7,2,0" data-index-in-node="0">Komfortable Rückspulfunktion:</strong> Geht im Blutrausch doch mal ein Zug daneben, bewahrt uns die jederzeit nutzbare Rückspultaste vor unnötigem Frust. Wir können unsere Aktionen einfach Zug für Zug rückgängig machen, anstatt die gesamte Map neu starten zu müssen.</p>
+</li>
+</ul>
+<h2 data-path-to-node="8">VHS-Kassetten, absurd kreative Kills und massig DLC-Nachschub</h2>
+<p data-path-to-node="9">Der Umfang der isometrischen Knobelei konnte sich schon zum Start sehen lassen, doch die Entwickler haben nach dem Release noch ordentlich nachgelegt. Weit über 200 Level verteilen sich auf verschiedene „Videokassetten“, die jeweils eigene Horror-Settings bedienen – vom verlassenen Freizeitpark bis hin zum obligatorischen Ferienlager am See.</p>
+<p data-path-to-node="10">Durch zahlreiche Zusatzinhalte und Erweiterungen, wie etwa das gebündelte <i data-path-to-node="10" data-index-in-node="74">Super-Sized Summer Slasher Pack</i>, ist die Auswahl an absurd-witzigen Killer-Varianten, kuriosen Level-Umgebungen und herrlich überzogenen Hinrichtungsanimationen (die sogenannten Gorepacks) im Laufe der Zeit noch einmal massiv angewachsen. Hier wird der rabenschwarze Humor des Basisspiels konsequent auf die Spitze getrieben.</p>
+<blockquote>
+<p data-path-to-node="10"><em><strong data-path-to-node="13,0" data-index-in-node="0">Unser Feature-Fokus:</strong> Slayaway Camp beweist eindrucksvoll, dass sich tiefschwarzer Humor und forderndes Rätseldesign perfekt ergänzen. Die charmante Anlehnung an klassische Slasher-Filme hält das Spielgefühl auch Jahre nach dem Release angenehm frisch. Die stetig ansteigende, aber dank Rückspulfunktion nie unfaire Komplexität der Puzzles sorgt für eine enorme Langzeitmotivation. Ein absoluter Pflicht-Titel für Puzzle-Fans mit starken Nerven.</em></p>
+</blockquote>
+<h2 data-path-to-node="11">Der schwere Stand des Nachfolgers</h2>
+<p data-path-to-node="12">Im Jahr 2024 schickte das Studio mit <i data-path-to-node="12" data-index-in-node="37"><a href="https://store.steampowered.com/app/2737140/Slayaway_Camp_2/" target="_blank" rel="noopener noreferrer">Slayaway Camp 2</a></i> übrigens einen offiziellen Nachfolger ins Rennen. Obwohl der zweite Teil das bewährte Konzept um viele neue Gameplay-Mechaniken und Features erweiterte, konnte er bislang nicht ganz an den enormen Erfolg seines kultigen Vorgängers anknüpfen. Manchmal bleibt das Original eben doch unschlagbar.</p>
+<p data-path-to-node="12"> </p>
+<div class="steam-cta-buttons"><a href="https://store.steampowered.com/curator/28279924-Indiegames-Inside/" target="_blank" rel="noopener" class="steam-btn steam-btn-secondary"> Folge unserer Steam Kurator Seite </a> <a href="https://store.steampowered.com/app/530390/Slayaway_Camp/?curator_clanid=28279924" target="_blank" rel="noopener" class="steam-btn steam-btn-primary"> Slayaway Camp auf Steam </a></div>
             ]]>
         </content>
     </entry>
